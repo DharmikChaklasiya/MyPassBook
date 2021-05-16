@@ -18,3 +18,6 @@ Password Management with DB
   4. For 1. Option it will ask for basic info like name/URL of website/app, email/login id and password.
   5. Optional: add saved password to clipboard to paste it easily anywhere, and search password by entering site/app name.
 - One way hash Function to convert text password to hash value.
+
+![image](https://user-images.githubusercontent.com/79636839/118396626-aa8df100-b650-11eb-84a3-b4ce98c2d277.png)
+
