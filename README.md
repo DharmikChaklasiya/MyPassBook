@@ -4,10 +4,10 @@ Password Management with DB
 
 The motive behind creating a Password managing app/UI is to have my own app that can store or save my different credentials for different website securely and I do not need to remember them all the time. I can access and keep tracking all of them with one security key/password.
 
-#Challenges: 
+# Challenges: 
 To create this interface/app, there are some challenges that I need to implement such as how a password manager vault works or what is hashing and how it works for password so It can get hashed in hash values. After reading some articles over encryption vs hashing, I got to conclusion that hashing is better in way to work with very sensitive info like passwords because Encryption is a two-way function; what is encrypted can be decrypted with the proper key. Hashing, however, is a one-way function that scrambles plain text to produce a unique message digest. ... An attacker who steals a file of hashed passwords must then guess the password.
 
-#My tasks:
+# My tasks:
 • To create a SQL database.
   ➢ Store passwords and details of website or app to that database.
   ➢ And retrieve those passwords and details from SQL database.
