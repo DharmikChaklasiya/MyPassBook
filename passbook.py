@@ -2,13 +2,14 @@ import sqlite3
 import hashlib
 from tkinter import *
 from database import *
+import time
 
 
 window = Tk()
 
 window.title("My PassBook")
 
-def hashpassword:
+def hashpassword():
     pass
 
 
@@ -72,13 +73,18 @@ def login():
         password= getMasterKey()
 
         if password:
-            vault()
+            label3.config(text="verify")
+            #label3['text'] = 'Wait for it...'
+            window.after(2000, vault())
         else:
             txt1.delete(0, 'end')
             label2.config(text="wrong password")
 
-    button = Button(window, text = "Validate", command = check_password)
-    button.pack(pady=10)
+    label3 = Label(window)
+    label3.pack(pady=1)
+
+    button = Button(window, text = "Submit", command = check_password)
+    button.pack(pady=3)
 
 def vault():
     for texts in window.winfo_children():
