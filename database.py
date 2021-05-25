@@ -1,5 +1,4 @@
 import sqlite3
-from tkinter import simpledialog
 
 with sqlite3.connect("MyPassBook.db") as db:
     cursor = db.cursor()
