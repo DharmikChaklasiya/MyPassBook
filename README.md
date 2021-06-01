@@ -3,6 +3,8 @@
 
 ### pip install -r requirements.txt
 
+### test password to login: "test"
+
 - database
   1. Store passwords and details of website or app to database.
   2. username and password will be encrypted before stored in dtaabse 
