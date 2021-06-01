@@ -1,13 +1,12 @@
 # MyPassBook
 # Password Management with DB
 
-## pip install -r requirements.txt
+### pip install -r requirements.txt
 
--database
+- database
   1. Store passwords and details of website or app to database.
   2. username and password will be encrypted before stored in dtaabse 
   3. And retrieve those passwords and details from SQL database and will be decrypted again
-  4. 
 - basic interface
   1. First time user can create that master password that will be key to database.
   2. User will be asked every time to enter master password to access the database of password vault.
