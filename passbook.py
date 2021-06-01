@@ -9,6 +9,9 @@ from tkinter import messagebox
 import pyperclip
 from encypt_decrypt import *
 
+
+#--------------------------------------------------------------#
+
 """create popup"""
 def popup(text):  # text
     """a pop will be open asking for input and return it."""

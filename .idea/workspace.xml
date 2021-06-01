@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97d23e3d-0845-45da-ba09-c2ed80b9f062" name="Default Changelist" comment="code updated">
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/MyPassBook.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MyPassBook.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/passbook.py" beforeDir="false" afterPath="$PROJECT_DIR$/passbook.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -127,7 +124,7 @@
       <workItem from="1622499338845" duration="4283000" />
       <workItem from="1622544357258" duration="2349000" />
       <workItem from="1622546780115" duration="2036000" />
-      <workItem from="1622550523379" duration="3509000" />
+      <workItem from="1622550523379" duration="4287000" />
     </task>
     <task id="LOCAL-00001" summary="updated">
       <created>1621691553205</created>
@@ -164,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622422140168</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="code updated">
+      <created>1622555154870</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1622555154870</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
