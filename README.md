@@ -1,7 +1,7 @@
 # MyPassBook
 # Password Management with DB
 
-# pip install -r requirements.txt
+## pip install -r requirements.txt
 
 -database
   1. Store passwords and details of website or app to database.
