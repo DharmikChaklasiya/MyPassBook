@@ -16,5 +16,4 @@
   4. For 1. Option it will ask for basic info like name/URL of website/app, email/user id and password.
   5. save password to clipboard to paste it easily anywhere
   6. option to delete particular one credential
-  7. 
 - One way hash Function to convert text password to hash value.
